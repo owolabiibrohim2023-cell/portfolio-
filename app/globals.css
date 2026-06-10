@@ -802,7 +802,7 @@ select:focus {
     width:100%;
   }
   .head{
-    width:23.4rem;
+    width:22.5rem;
   }
   .toggle{
    
@@ -849,14 +849,14 @@ text-align: start;
     flex-direction: column; 
   }
   .project{
-    width:21rem;
+    width:20rem;
     margin: auto;
   }
   .about{
     flex-direction: column;
   }
   .project-image{
-    width:21rem;
+    width:20rem;
   }
   
 }
