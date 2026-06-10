@@ -802,7 +802,7 @@ select:focus {
     width:100%;
   }
   .head{
-    width:24.4rem;
+    width:23.4rem;
   }
   .toggle{
    
@@ -836,6 +836,7 @@ text-align: start;
   .top-text{
     text-align: justify;
     padding-left: -20px;
+    front-size:18px;
   }
   #projects{
    
@@ -849,6 +850,7 @@ text-align: start;
   }
   .project{
     width:21rem;
+    margin: auto;
   }
   .about{
     flex-direction: column;
