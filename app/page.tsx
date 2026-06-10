@@ -257,7 +257,7 @@ border-4 border-white transition delay-150 duration-300 ease
     bg-blue-700  shadow-sm shadow-gray-100 hover:-translate-y-10 scroll-animate-right">
   <p className="text-xl text-gray-100 text-center font-arial ">Weather Dashboard – API Integration Project</p>
  <a href="https://third-project-iota.vercel.app/" target="_blank" rel="noopener noreferrer">
-   <img src="api.png"
+   <img src="API.png"
      className="project-image
   loading-lazy
     
