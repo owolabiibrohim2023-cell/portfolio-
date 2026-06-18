@@ -824,8 +824,7 @@ text-align: start;
   #home{
     display: flex;
     flex-direction: column;
-    height: 200vh;
-    width: auto;
+    height:170vh;
   }
   .tops{
     margin-left: 2rem;
@@ -840,7 +839,7 @@ text-align: start;
     font-size:26px;
   }
   #projects{
-   
+   margin: auto;
     
     height: 200em;
 
