@@ -829,6 +829,10 @@ text-align: start;
   .tops{
     margin-left: 1rem;
   }
+  object-top{
+    padding-top:-20px;
+    padding-left:-20px;
+  }
   .top-button{
     font-size: 17px;
   }
