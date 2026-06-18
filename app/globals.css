@@ -825,6 +825,7 @@ text-align: start;
     display: flex;
     flex-direction: column;
     height:150vh;
+    gap:2rem;
   }
   .tops{
     margin-left: 1rem;
@@ -834,18 +835,20 @@ text-align: start;
     padding-left:-20px;
   }
   .home-image{
-    width:13rem;
-    height:12rem;
+    width:19rem;
+    height:19rem;
+  justify-content: center;
   }
   .top-button{
     font-size: 17px;
   }
   
   .top-text{
-    text-align: center;
+font-family: Poppins;
     margin-left: 20px;
     font-size:30px;
     padding:none;
+    margin:none;
   }
   #projects{
    margin: auto;
