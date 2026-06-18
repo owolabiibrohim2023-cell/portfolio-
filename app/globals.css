@@ -829,9 +829,13 @@ text-align: start;
   .tops{
     margin-left: 1rem;
   }
-  object-top{
-    padding-top:-20px;
+  .object-top{
+    padding-top:none;
     padding-left:-20px;
+  }
+  .home-image{
+    width:13rem;
+    height:12rem;
   }
   .top-button{
     font-size: 17px;
