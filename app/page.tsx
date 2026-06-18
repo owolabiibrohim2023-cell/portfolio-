@@ -117,8 +117,8 @@ export default function Home() {
    
 {/* HOME */}
     <section id="home" className="relative pt-40 bg-blue-950 w-100% h-180 flex flex-row gap-30 scroll-animate mt-16">
-    <div className="-pt-10">
-<h1 className="top-text text-white text-5xl font-bold pt-30 pl-10 leading-16 transition delay-150 duration-300 ease animate-wiggle
+    <div className="object-top. -pt-10">
+<h1 className="top-text text-white text-5xl font-poppins pt-30 pl-10 leading-16 transition delay-150 duration-300 ease animate-wiggle
   ">ALKHALILY, EXPERIENCED <br></br> AND COMPETENT
     FRONTEND <br></br>SOFTWARE DEVELOPER
 </h1><br></br>
@@ -131,7 +131,7 @@ export default function Home() {
 
 kha.jpg"
 
-className="loading-lazy image  right-40 w-110 h-110 rounded-full 
+className="home-image loading-lazy image  right-40 w-110 h-110 rounded-full 
 border-4 border-white transition delay-150 duration-300 ease
  hover:scale-110"/>
 
