@@ -803,7 +803,7 @@ select:focus {
   }
   .head{
     width:22.5rem;
-    height:3rem;
+    height:4rem;
   }
   .toggle{
    
@@ -824,10 +824,10 @@ text-align: start;
   #home{
     display: flex;
     flex-direction: column;
-    height:170vh;
+    height:150vh;
   }
   .tops{
-    margin-left: 2rem;
+    margin-left: 1rem;
   }
   .top-button{
     font-size: 17px;
@@ -836,7 +836,8 @@ text-align: start;
   .top-text{
     text-align: center;
     margin-left: 20px;
-    font-size:26px;
+    font-size:30px;
+    padding:none;
   }
   #projects{
    margin: auto;
