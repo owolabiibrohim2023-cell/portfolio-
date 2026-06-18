@@ -803,6 +803,7 @@ select:focus {
   }
   .head{
     width:22.5rem;
+    height:3rem;
   }
   .toggle{
    
@@ -835,8 +836,8 @@ text-align: start;
   
   .top-text{
     text-align: center;
-    padding-left: -20px;
-    font-size:22px;
+    margin-left: 20px;
+    font-size:26px;
   }
   #projects{
    
