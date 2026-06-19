@@ -862,22 +862,24 @@ font-family: Poppins;
   #projects{
    margin: auto;
     
-    height: 200em;
+    height: 180em;
 
   }
   .projects{
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
+    gap:2rem;
   }
   .project{
-    width:20rem;
+    width:19rem;
     margin: auto;
+    padding:10px;
   }
   .about{
     flex-direction: column;
   }
   .project-image{
-    width:20rem;
+    width:19rem;
   }
   
 }
