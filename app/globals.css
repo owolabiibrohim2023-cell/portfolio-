@@ -829,7 +829,8 @@ text-align: start;
     flex-direction: column;
     height:130vh;
     gap:2rem;
-    padding-top:-10rem;
+    padding-top:-30rem;
+    margin-top:10rem;
   }
   .tops{
     margin-left: 1rem;
@@ -837,7 +838,7 @@ text-align: start;
   .object-top{
     padding-top:none;
     padding-left:-20px;
-    margin-top:-5rem;
+    margin-top:-20rem;
   }
   .home-image{
     width:19rem;
@@ -845,17 +846,18 @@ text-align: start;
   justify-content: center;
   }
   .top-button{
-    font-size: 10px;
+    font-size: 15px;
     font-weight:bold; 
-    height:2rem;
+    height:3rem;
+    width:8rem;
   }
   
   .top-text{
 font-family: Poppins;
     margin-left: 20px;
     font-size:30px;
-    padding:none;
-    margin:none;
+    
+    
   }
   #projects{
    margin: auto;
