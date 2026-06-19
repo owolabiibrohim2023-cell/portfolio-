@@ -118,7 +118,9 @@ export default function Home() {
 {/* HOME */}
     <section id="home" className="relative pt-40 bg-blue-950 w-100% h-180 flex flex-row gap-30 scroll-animate mt-16">
     <div className="object-top. -pt-10">
-<h1 className="top-text text-white text-5xl font-bold pt-30 pl-10 leading-16 transition delay-150 duration-300 ease animate-wiggle
+<h1 className="top-text text-white text-5xl font-bold font-poppins
+  
+  pt-30 pl-10 leading-16 transition delay-150 duration-300 ease animate-wiggle
   ">ALKHALILY, EXPERIENCED <br></br> AND COMPETENT
     FRONTEND <br></br>SOFTWARE DEVELOPER
 </h1><br></br>
@@ -154,17 +156,17 @@ border-4 border-white transition delay-150 duration-300 ease
           </div>
           
           <div className="flex flex-col justify-center scroll-animate-right">
- <p className="text-xl font-arial text-gray-200 leading-relaxed mb-6 ">
+ <p className="text-xl font-poppins text-gray-200 leading-relaxed mb-6 ">
   I am a Frontend Developer focused on engineering high-performance, scalable web applications using HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS and API integrations. I build clean, responsive interfaces with a strong emphasis on usability, performance optimization, and maintainable architecture.
    </p>
  
-            <p className="text-xl font-arial text-gray-200 leading-relaxed mb-6 ">
+            <p className="text-xl font-poppins text-gray-200 leading-relaxed mb-6 ">
               I create more than just interfaces—I build clean, data-driven user experiences optimized for performance, usability, and real-world results.
             </p>
-            <p className="text-lg text-gray-200 leading-relaxed mb-6 text-xl font-arial  ">
+            <p className="text-lg text-gray-200 leading-relaxed mb-6 text-xl font-poppins ">
               From landing pages to dynamic web applications, my work is structured to load quickly, adapt seamlessly across all devices, and deliver smooth interaction.
             </p>
-            <p className="text-lg text-gray-200 leading-relaxed text-xl font-arial ">
+            <p className="text-lg text-gray-200 leading-relaxed text-xl font-poppins ">
               I’ve developed multiple projects, including portfolios and business websites, where I’ve handled real challenges in responsiveness, layout precision, styling systems, and API integration. My approach is centered on <span className="text-blue-300 font-semibold">clean architecture</span>, reusable components, and maintainable code, from planning through to production-ready delivery.
             </p>
           </div>
