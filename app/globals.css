@@ -96,8 +96,11 @@ html {
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: poppins,sans-serif;
   overflow-x: hidden;
+  
+  font-family: var(--font-poppins), sans-serif;
+
 }
 
 /* Accessibility & Touch Optimization */
@@ -826,7 +829,7 @@ text-align: start;
     flex-direction: column;
     height:130vh;
     gap:2rem;
-    padding-top:-2rem;
+    padding-top:-10rem;
   }
   .tops{
     margin-left: 1rem;
@@ -834,6 +837,7 @@ text-align: start;
   .object-top{
     padding-top:none;
     padding-left:-20px;
+    margin-top:-5rem;
   }
   .home-image{
     width:19rem;
@@ -841,7 +845,9 @@ text-align: start;
   justify-content: center;
   }
   .top-button{
-    font-size: 17px;
+    font-size: 10px;
+    font-weight:bold; 
+    height:2rem;
   }
   
   .top-text{
