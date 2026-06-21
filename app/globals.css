@@ -749,7 +749,8 @@ select:focus {
   .hidden-mobile {
     display: block;
   }
-  
+  .head {
+    width:25rem;
   .hidden-desktop {
     display: none !important;
   }
@@ -883,5 +884,15 @@ font-family: Poppins;
     width:19rem;
   }
   
+}
+
+@media (min-width:320px){
+  body{
+    width:100%;
+  }
+  #home{
+    height:160vh;
+    
+  }
 }
 
