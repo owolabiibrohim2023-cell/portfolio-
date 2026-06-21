@@ -828,7 +828,7 @@ text-align: start;
   #home{
     display: flex;
     flex-direction: column;
-    height:130vh;
+    height:150vh;
     gap:2rem;
     padding-top:-30rem;
     margin-top:-3rem;
