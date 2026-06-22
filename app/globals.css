@@ -806,7 +806,7 @@ select:focus {
     width:100%;
   }
   .head{
-    width:24.5rem;
+    width:25.5rem;
     height:4rem;
   }
   .toggle{
@@ -887,11 +887,12 @@ font-family: Poppins;
 }
 
 @media (min-width:320px){
+                      
   body{
     width:100%;
   }
   #home{
-    height:160vh;
+    height:180vh;
     
   }
 }
