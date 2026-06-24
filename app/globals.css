@@ -752,13 +752,7 @@ select:focus {
   .head {
     width:100%;
   }
-  #home {
-    height:auto;
-    padding-bottom:20px;
-    display:flex;
-    flex-direction:row;
-    gap:1rem;
-  }
+  
   .hidden-desktop {
     display: none !important;
   }
@@ -812,8 +806,12 @@ select:focus {
   
 }
 @media (max-width:768px){
+  * {
+    box-sizing:border-box;
   body{
     width:100%;
+    margin:0;
+    padding:0;
   }
   .head{
     width:100%;
