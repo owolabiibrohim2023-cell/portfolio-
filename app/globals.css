@@ -787,6 +787,7 @@ select:focus {
 @media (orientation: landscape) and (max-height: 600px) {
   .head {
     padding: var(--spacing-sm);
+    width:100%;
   }
 
   section {
@@ -887,7 +888,7 @@ font-family: Poppins;
   
 }
 
-@media (min-width:320px){
+@media (max-width:320px){
                       
   body{
     width:100%;
