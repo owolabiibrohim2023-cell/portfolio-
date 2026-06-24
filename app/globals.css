@@ -752,6 +752,13 @@ select:focus {
   .head {
     width:100%;
   }
+  #home {
+    height:auto;
+    padding-bottom:20px;
+    display:flex;
+    flex-direction:row;
+    gap:1rem;
+  }
   .hidden-desktop {
     display: none !important;
   }
@@ -790,12 +797,7 @@ select:focus {
     padding: var(--spacing-sm);
     width:100%;
   }
-  #home{
-    flex-direction:row;
-    gap:1rem;
-    height:auto;
-    padding-bottom:30px;
-  }
+
 
   section {
     padding: var(--spacing-sm);
