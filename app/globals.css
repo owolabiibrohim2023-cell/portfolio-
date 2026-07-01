@@ -1,4 +1,9 @@
 @import "tailwindcss";
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
 
 :root {
   --background: #ffffff;
@@ -806,9 +811,6 @@ select:focus {
   
 }
 @media (max-width:768px){
-  * {
-    box-sizing:border-box;
-  }
   
   .head{
     width:100%;
