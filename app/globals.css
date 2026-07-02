@@ -859,10 +859,10 @@ text-align: start;
   .top-button{
     font-size: 15px;
     font-weight:bold; 
-    padding:-10px;
+    padding:10px;
     width:10rem;
     text-align: center;
-    padding-top:4px;
+    
   }
   
   .top-text{
@@ -875,7 +875,7 @@ font-family: Poppins;
   #projects{
    margin: auto;
     
-    height: 180em;
+    height: 170em;
 
   }
   .projects{
@@ -891,6 +891,7 @@ font-family: Poppins;
   .about{
     flex-direction: column;
     gap:3rem;
+    padding-top:30px;
   }
   .project-image{
     width:19rem;
