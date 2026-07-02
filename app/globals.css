@@ -813,6 +813,7 @@ select:focus {
 @media (max-width:768px){
   body{
     width:100%;
+  }
   
   .head{
     width: 100%;
@@ -835,7 +836,7 @@ text-align: start;
   #home{
     display: flex;
     flex-direction: column;
-    height:auto;
+    height:180vh;
     gap:2rem;
     padding-top:-30rem;
     margin-top:3rem;
