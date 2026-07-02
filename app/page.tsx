@@ -303,7 +303,7 @@ border-4 border-white transition delay-150 duration-300 ease
    </div>
    
    {/* Contact Icons */}
-   <div className="flex flex-wrap justify-center gap-10 mt-16 mb-12">
+   <div className="icons flex flex-wrap justify-center gap-10 mt-16 mb-12">
      {/* WhatsApp */}
      <a href="https://wa.me/2349059524250" target="_blank" rel="noopener noreferrer" className="group scroll-animate-scale scroll-animate-delay-1">
        <div className="relative w-24 h-24 bg-gradient-to-br from-green-400 to-green-600 rounded-full flex items-center justify-center shadow-lg transition duration-300 hover:shadow-2xl hover:-translate-y-3 hover:scale-110">
@@ -346,7 +346,7 @@ border-4 border-white transition delay-150 duration-300 ease
    </div>
    
    {/* Extra CTA */}
-   <div className="text-center mt-20 scroll-animate-scale">
+   <div className="action  text-center mt-20 scroll-animate-scale">
      <button className="px-8 py-4 bg-gradient-to-r from-blue-500 to-cyan-500 text-white font-bold text-lg rounded-full shadow-lg transition duration-300 hover:shadow-2xl hover:scale-105 hover:from-blue-600 hover:to-cyan-600">
        Start a Conversation
      </button>
