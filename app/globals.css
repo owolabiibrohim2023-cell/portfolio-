@@ -813,7 +813,7 @@ select:focus {
 @media (max-width:768px){
   
   .head{
-    width:10rem;
+    width: 100%;
     height:4rem;
   }
   
