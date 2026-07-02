@@ -811,6 +811,8 @@ select:focus {
   
 }
 @media (max-width:768px){
+  body{
+    width:100%;
   
   .head{
     width: 100%;
@@ -836,8 +838,8 @@ text-align: start;
     height:auto;
     gap:2rem;
     padding-top:-30rem;
-    margin-top:-3rem;
-    padding-bottom:20px;
+    margin-top:3rem;
+    padding-bottom:30px;
     
   }
   .tops{
